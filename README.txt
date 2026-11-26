@@ -6,5 +6,3 @@ Ich habe meinen Bambulab A1 mit einem Panda Knomi 3D ausgestattet, ist einfach s
 .stl und .3mf liegen hier
 
 https://makerworld.com/de/models/3668593-extruder-a1-cover-panda-knomi-magnetic#profileId-4211430
-
-editierte Version vom 20261126
